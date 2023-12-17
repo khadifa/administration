@@ -44,3 +44,4 @@ man echo
 touch countdown.sh
 chmod +x questionnaire.sh
 chmod +x countdown.sh
+which bash
