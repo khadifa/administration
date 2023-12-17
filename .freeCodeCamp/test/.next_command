@@ -45,3 +45,4 @@ touch countdown.sh
 chmod +x questionnaire.sh
 chmod +x countdown.sh
 which bash
+./countdown.sh
